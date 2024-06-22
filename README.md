@@ -26,7 +26,7 @@ Lifelong Learner,
 
     - :speech_balloon: let's study together.</br>
 
-    - :mailbox: How to reach me: <a href="mailto: rahmatarefqi@gmail.com">Email me!</a>  </br>
+    - :mailbox: How to reach me: <a href="mailto:rahmatarefqi@gmail.com">Email me!</a>  </br>
 
     - :cloud: Pronouns: She/Her. </br>
 
