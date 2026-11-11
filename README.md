@@ -1,23 +1,18 @@
-# <summary><strong>Hi there :wave: , I'm Poirot</strong></summary>
+# Hi there 👋, I'm Eki
+Lifelong learner · UT student · building small apps & exploring AI agents
+- Currently exploring: AI agents & free mints on BNB Chain
+- Learning: IT & ethical hacking, TypeScript, Solidity
+- Ask me about: mini-apps, on-chain stuff, content
+### Let's connect!
+- X (Twitter): [@Icibooz](https://x.com/Icibooz)
+- Instagram: [@eky_100](https://www.instagram.com/eky_100/)
+- GitHub: [@arefki](https://github.com/arefki)
 
-Lifelong Learner, 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poirot&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 
-</p>
 
- 
 
-### <summary><strong>Let's connect!</strong></summary>
 
-<a href="https://twitter.com/zoro_guest">
 
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 
-</a>
 
-<a href="https://www.instagram.com/eky_100/">
-
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-
-</a>
